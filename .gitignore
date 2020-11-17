@@ -3,6 +3,8 @@
 !.gitignore
 
 # dot files
+!/.gitpod.Dockerfile
+!/.gitpod.yml
 !/.pre-commit-config.yaml
 
 # build
